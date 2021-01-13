@@ -1,5 +1,5 @@
-# Common Git Code
-Here I've noted down some basic and common git code what we need to use everytime.
+# Common Git Command
+Here I've noted down some basic and common git command what we need to use everytime.
 ---
 
 ---
